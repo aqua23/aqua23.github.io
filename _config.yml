@@ -1,0 +1,20 @@
+# Site settings
+title: 芳芳定制
+email: seoaqua@qq.com
+url: https://www.fangfangdingzhi.com
+description: "提供服装高级定制服务。包括：主持人服装，节目服装，秀场服装，公司制服等。"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: 芳芳定制
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
